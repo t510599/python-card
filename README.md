@@ -34,7 +34,7 @@ A simple card game with command line interface.
 | 15 | 狂亂 | 回復三點生命，並對敵方造成三點傷害 |  |
 | 16 | 逆轉 | 使自己與敵方的生命交換  | <br> |
 ## Characters
-# WIP WORK IN PROGRESS
+__WIP__ WORK IN PROGRESS  
 1.安，特殊能力:上帝視角，每回合一次，可以無視敵方玩家的指定  
 2.圭月，特殊能力:空間拉鍊，可使用「傳送」、「狹縫」或「暴走」三張特殊手牌各一張  
 3.梅，特殊能力:鮮血之梅，自己的回合開始時，使敵方玩家使其受到一點傷害，再回復自己一點生命值  
