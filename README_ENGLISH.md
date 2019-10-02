@@ -51,7 +51,7 @@ card id and effect are in below chart:
 
 
 ## Characters
-I__WIP__ WORK IN PROGRESS
+WORK IN PROGRESS
 
 
 
