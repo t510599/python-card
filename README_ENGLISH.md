@@ -6,18 +6,30 @@ A  card dueling game start with two players .
 At the beginning of game,each player has :
 
 * 20 HP
+
 * a card deck has 115 cards
+
 * three initial card in hand
+
 one of players will be appointed as the first player by the system
+
 It’s a turn-based game
+
 When a player’s HP turns zero,he/she lose the game . The opponent win.
+
+
 ##Cards 
+
 card deck consists of 115 cards (16 kinds)
+
 default card deck involves: ‘attack’x15 ‘defense’X15  ‘heal’x15 ‘rob’x10
 ‘ambush’x10 ‘trade’x10 ‘supply’x10 ‘predict’x5 ‘outstanding move’x5
 ’shoot’x5 ‘protect’x5 ‘poison’x2 ‘curse’x2 ‘rebound’x2 ‘madness’x2 ‘reverse’x2
+
 opponent can use defensive card while you use the offensive card
+
 card id and effect are in below chart:
+
 |  ID | Name | Description | Remarks |
 | :--:   | :-----:  | :----: | :-----: |
 | 1 | attack | deal 2 damage to opponent | offensive card |
@@ -36,6 +48,8 @@ card id and effect are in below chart:
 | 14 | rebound | block offensive card and rebound its effect / halve opponent’s HP  | defensive card |
 | 15 | madness | restore 3 HP and deal 3 damage to opponent |  |
 | 16 | reverse | exchange your HP for opponent’s HP  | <br> |
+
+
 ## Characters
 I__WIP__ WORK IN PROGRESS
 
