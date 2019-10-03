@@ -18,7 +18,7 @@ It’s a turn-based game
 When a player’s HP turns zero,he/she lose the game . The opponent win.
 
 
-##Cards 
+## Cards 
 
 card deck consists of 115 cards (16 kinds)
 
