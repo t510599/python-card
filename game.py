@@ -72,10 +72,10 @@ def draw(player): # 抽卡
 # cur:current player
 # ene:enemy
 def turn(p1,p2):
-    if p1.playing == True:
+    if p1.playing:
         cur = p1
         ene = p2
-    elif p2.playing == True:
+    elif p2.playing:
         cur = p2
         ene = p1
     cur.turn += 1
